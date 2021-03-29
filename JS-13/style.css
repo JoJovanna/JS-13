@@ -1,0 +1,25 @@
+body{
+    background-color: coral;
+}
+.flex{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+.name{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: solid purple;
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(223, 122, 118);
+    border-radius: 5%;
+    height: 100px;
+    width: 300px;
+}
+.Button{
+    height: 70px;
+    width: 150px;
+    margin-top: 30px;
+    background-color: rgba(197, 39, 202, 0.603);
+}
